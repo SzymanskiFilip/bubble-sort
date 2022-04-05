@@ -1,3 +1,0 @@
-/home/filip/Software Development/bubble-sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/filip/Software Development/bubble-sort/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/filip/Software Development/bubble-sort/cmake-build-debug/CMakeFiles/bubble_sort.dir
